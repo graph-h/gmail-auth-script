@@ -38,8 +38,6 @@ async function passwordAction(page: Page) {
     await page.keyboard.press('Enter');
     await page.waitForNavigation();
 
-    // TODO: check email password is incorrect
-
     return;
 }
 
