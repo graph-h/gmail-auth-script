@@ -1,5 +1,8 @@
 # Gmail Auth Script with Puppeteer
 
+## Description
+This script retrieves the number of your unread emails from the status of authorization to your email.
+
 ## Install
 ```bash
 $ yarn install
