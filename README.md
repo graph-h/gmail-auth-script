@@ -8,6 +8,11 @@ This script retrieves the number of your unread emails from the status of author
 $ yarn install
 ```
 
+## Build
+```bash
+$ yarn run build
+```
+
 ## Running the app
 ```bash
 # development
